@@ -1,8 +1,7 @@
-#MARVIK
+# MARVIK
 
-#Documentation link:
-https://documenter.getpostman.com/view/3908658/TzXzDckR
+## Deployed at 45.61.54.206
 
-#Example Request
-curl --location --request POST '45.61.54.206' \
---data-raw '{"booleanParam": true}'
+## Example Request: https://documenter.getpostman.com/view/3908658/TzXzDckR
+
+###### Guillermo Banchero
