@@ -20,8 +20,6 @@ def home():
         if request.method == 'GET':
             return '''<h1>Working ok ...</h1>'''
 
-
-
 # Handling errors:
 
 # 404
